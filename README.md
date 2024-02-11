@@ -6,6 +6,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/Volodymyr%20Semeniuk-c0392b?style=flat&logo=gmail&logoColor=white&labelColor=c0392b)](mailto:vova.sem143@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Volodymyr_Semeniuk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-semeniuk)
+[![Mail Badge](https://img.shields.io/badge/-@vovka8101-282a36?style=flat&labelColor=282a36&logo=telegram&logoColor=#0088cc)](https://t.me/vovka8101)
 [![Mail Badge](https://img.shields.io/badge/-@Volodymyr%20Semeniuk-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vova.semeniuk/)
 
 <h3 align="left">🛠 Top Technologies</h3>
