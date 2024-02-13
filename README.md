@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🚀 I am a highly motivated and driven front-end developer with solid skills in React, JavaScript, TypeScript, Redux, and SCSS.
+
+💻 Focused on being a valuable part of any team, I spend most of my time coding and solving different challenges using up-to-date approaches and techniques. My ultimate goal is to create functional, responsive and engaging websites that are both easy to maintain and user-friendly.
+
+🏋️‍♂️ Outside of coding, you can find me embracing a healthy lifestyle and staying active through sports.
+
+💼 I am looking for opportunities to work in commercial projects to expand my knowledge of web development.
+
 <br>
 
 :mailbox: Reach me out!
@@ -8,7 +16,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Volodymyr_Semeniuk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-semeniuk)
 [![Mail Badge](https://img.shields.io/badge/-@vovka8101-282a36?style=flat&labelColor=282a36&logo=telegram&logoColor=#0088cc)](https://t.me/vovka8101)
 
-<h3 align="left">🛠 Top Technologies</h3>
+<h3 align="left">🛠 Top Technologies and tools I'm working with:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
