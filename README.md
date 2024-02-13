@@ -2,11 +2,11 @@
 
 🚀 I am a highly motivated and driven front-end developer with solid skills in React, JavaScript, TypeScript, Redux, and SCSS.
 
-💻 Focused on being a valuable part of any team, I spend most of my time coding and solving different challenges using up-to-date approaches and techniques. My ultimate goal is to create functional, responsive and engaging websites that are both easy to maintain and user-friendly.
+💻 Focused on being a valuable part of any team, I spend most of my time coding and solving different challenges using up-to-date approaches and techniques. My ultimate goal is to create functional, responsive, and engaging websites that are both easy to maintain and user-friendly.
 
 🏋️‍♂️ Outside of coding, you can find me embracing a healthy lifestyle and staying active through sports.
 
-💼 I am looking for opportunities to work in commercial projects to expand my knowledge of web development.
+💼 I am looking for opportunities to work on commercial projects to expand my knowledge of web development.
 
 <br>
 
